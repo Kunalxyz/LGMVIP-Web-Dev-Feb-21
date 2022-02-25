@@ -5,6 +5,6 @@ A web app built using React. To get users and their details through an API call 
 
 IDE used: VS Code
 
-Languages: Reactjs,CSS
+Languages: HTML, CSS, JavaScript
 
 Website Link: https://srblgmvipt2.netlify.app
