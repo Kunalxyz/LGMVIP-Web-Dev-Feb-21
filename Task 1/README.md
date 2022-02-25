@@ -1,7 +1,7 @@
 # LGMVIP-Web-Development
 Web Development Internship Task-1
 
-A web app built using React. To get users and their details through an API call on clicking a button.
+A to-do list web app where the user can add ,delete and rearrange task as required.
 
 IDE used: VS Code
 
